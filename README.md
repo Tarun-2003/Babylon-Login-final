@@ -18,8 +18,8 @@ Getting Started
 1. Clone the repository and install dependencies 
 
 ```bash
-git clone https://github.com/Tarun-2003/Babylon-Login.git
-cd Babylon-Login
+git clone https://github.com/Tarun-2003/Babylon-Login-final-main.git
+cd Babylon-Login-final-main
 npm install
 npm run dev
 ```
